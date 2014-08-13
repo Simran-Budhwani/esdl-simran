@@ -21,3 +21,9 @@ double add(double in_num)
   out_num=in_num+in_num;
   return out_num;
 }
+double sub(double in_num)
+{
+  double out_num;
+  out_num=in_num-in_num;
+  return out_num;
+}
